@@ -9,6 +9,8 @@
 
 Presentation 
 
+Wiew presentation slides
+https://docs.google.com/presentation/d/1cN7t6MhMyH_yZ9Y6SMLYikV6YmT99dquIfWGMunYT24/edit?usp=drivesdk
 
 
 Architecture
